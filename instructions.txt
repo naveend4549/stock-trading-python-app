@@ -1,0 +1,10 @@
+#create python vertual Environment
+
+python3 -m venv pythonenv
+
+#activate vetrual Environment
+source pythonenv/bin/activate
+
+# to install required libraries
+pip install -r requirements.txt
+
